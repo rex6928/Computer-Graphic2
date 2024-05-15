@@ -1,6 +1,7 @@
 # Computer-Graphic2
 컴퓨터 그래픽스 과제 제출용 리포지토리
 
+```
 #include <GL/glut.h>
 
 float angle = 0.0f; // 회전 각도
@@ -55,3 +56,6 @@ int main(int argc, char** argv) {
 
     return 0;
 }
+```
+
+![주전자](https://github.com/rex6928/Computer-Graphic2/assets/162276764/4c1c492b-8788-48d8-b27a-9cd7d8369e0b)
